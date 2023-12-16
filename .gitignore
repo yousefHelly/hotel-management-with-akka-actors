@@ -1,0 +1,25 @@
+# Scala and SBT
+target/
+lib_managed/
+project/target/
+.project
+.worksheet
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.settings/
+
+# Metals
+.metals/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
